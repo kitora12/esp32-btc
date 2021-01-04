@@ -14,9 +14,12 @@ ESP32
 ## Preparation
 
 ## install
-1. Prepare the parts
+1. Prepare the parts.
+
    ESP32-S(Node-MCU/Hiletgo) 
+   
    0.96" I2C serial 128×64 OLED LCD
+   
    Wire & Pret board
    
 2. Wiring following below
