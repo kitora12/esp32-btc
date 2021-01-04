@@ -19,7 +19,8 @@ Displays current real time and BTC price in USD.
    Wire & Pret board
    
 2. Wiring following below
-![ESP32s wirering photo](ESP32s to OLED.png)
+
+![wire](ESP32s to OLED.png)
 
 3. Insert Wi-fi SSID & Password in .ino file
 
