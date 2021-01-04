@@ -1,7 +1,16 @@
 # ESP32-BTC
 Simple Demo for an ESP32 module with a TFT LCD or an OLED display.
 
-Displays current time and BTC price in USD.
+Forked from https://github.com/joysfera/esp32-btc
+
+1. Modify current time to real current time.
+2. Set time zone on JST(+9h)
+
+Displays current real time and BTC price in USD.
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
 
 Supports two different modules directly:
 
