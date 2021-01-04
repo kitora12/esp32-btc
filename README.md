@@ -11,9 +11,9 @@ Displays current real time and BTC price in USD.
 Preparation
 ESP32
 
-## Preparation
+## Preparation 
 
-## install
+## install (The result I tried)
 1. Prepare the parts.
 
    ESP32-S(Node-MCU/Hiletgo) 
