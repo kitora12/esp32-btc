@@ -4,10 +4,12 @@ Simple Demo for an ESP32 module with a TFT LCD or an OLED display.
 Forked from https://github.com/joysfera/esp32-btc
 
 ![clock](esp32btcclock.gif)
+
 1. Modify current time to real current time.
 2. Set time zone on JST(+9h).
 
 ![checkbtc](esp32btcgetbtc.gif)
+
 3. When renew the BTC, blink the blue LED on esp32s GPIO 02.
 
 Displays current real time and BTC price in USD.
