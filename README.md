@@ -8,10 +8,6 @@ Forked from https://github.com/joysfera/esp32-btc
 
 Displays current real time and BTC price in USD.
 
-Preparation
-ESP32
-
-## Preparation 
 
 ## install (The result I tried)
 1. Prepare the parts.
