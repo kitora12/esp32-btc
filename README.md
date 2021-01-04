@@ -10,6 +10,10 @@ Displays current real time and BTC price in USD.
 
 
 
+
+
+
+The original text below
 -------------------------------------------------------------------------------------------------------------------------------------
 
 Supports two different modules directly:
