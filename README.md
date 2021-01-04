@@ -20,7 +20,7 @@ Displays current real time and BTC price in USD.
    
 2. Wiring following below
 
-![wire](ESP32s to OLED.png)
+![wire](ESP32stoOLED.png)
 
 3. Insert Wi-fi SSID & Password in .ino file
 
