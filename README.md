@@ -8,9 +8,25 @@ Forked from https://github.com/joysfera/esp32-btc
 
 Displays current real time and BTC price in USD.
 
+Preparation
+ESP32
 
+## Preparation
 
+## install
+1. Prepare the parts
+   ESP32-S(Node-MCU/Hiletgo) 
+   0.96" I2C serial 128×64 OLED LCD
+   Wire & Pret board
+   
+2. Wiring following below
 
+3. Insert Wi-fi SSID & Password in .ino file
+
+4. Compile arduino IDE & write down ESP-32.
+   You may need to press and hold the Boot button when writing to the ESP32.
+
+5. Just run!
 
 
 The original text below
